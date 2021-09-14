@@ -12,6 +12,7 @@
     "redux": "^4.1.1",
     "redux-thunk": "^2.3.0"
   },
+  "homepage": "https://mohamed00sayed.github.io/reactnd-chirper-app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
